@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Automatically set working directory based on where the script is run
-WORKDIR="$PWD/InfinityX"
+WORKDIR="$PWD/Pacman_InfinityX"
 
 # Create the folder if it doesn't exist
 mkdir -p "$WORKDIR"
